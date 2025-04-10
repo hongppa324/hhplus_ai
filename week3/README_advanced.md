@@ -5,7 +5,7 @@
 https://github.com/hongppa324/hhplus_ai/blob/main/week3/advanced_mnli.ipynb
 
 # 2) NER 과제 링크
-https://github.com/hongppa324/hhplus_ai/blob/main/week3/advanced_ner_corrected.ipynb
+https://github.com/hongppa324/hhplus_ai/blob/main/week3/week3_ner_corrected.ipynb
 
 # 3) 기계 번역 과제 링크
 
