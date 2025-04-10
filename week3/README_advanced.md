@@ -1,10 +1,33 @@
 ## Q1) 어떤 task를 선택하셨나요?
 > NER, MNLI, 기계 번역 셋 중 하나를 선택
 
+# 1) MNLI 과제 링크
+https://github.com/hongppa324/hhplus_ai/blob/main/week3/advanced_mnli.ipynb
+
+# 2) NER 과제 링크
+https://github.com/hongppa324/hhplus_ai/blob/main/week3/advanced_ner.ipynb
+
+# 3) 기계 번역 과제 링크
+
 
 ## Q2) 모델은 어떻게 설계하셨나요? 설계한 모델의 입력과 출력 형태가 어떻게 되나요?
 > 모델의 입력과 출력 형태 또는 shape을 정확하게 기술
 
+# 1) MNLI
+* 모델 : DistilBERT
+* 입력 : Premise, Hypothesis 텍스트 
+  - torch.Size([64, 400])
+* 출력 : entailment, neutral, contradiction 중 하나
+  - torch.Size([64, 3])
+
+# 2) NER
+* 모델 : DistilBertForTokenClassification
+* 입력 : 토큰화된 단어
+  - input_id, label : torch.Size([16, 128])
+* 출력 : BIO tagging 형식의 tag
+  - torch.Size([16, 128, 17])
+
+# 3) 기계 번역
 
 ## Q3) 실제로 pre-trained 모델을 fine-tuning했을 때 loss curve은 어떻게 그려지나요? 그리고 pre-train 하지 않은 Transformer를 학습했을 때와 어떤 차이가 있나요? 
 > 비교 metric은 loss curve, accuracy, 또는 test data에 대한 generalization 성능 등을 활용.

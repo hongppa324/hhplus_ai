@@ -11,4 +11,5 @@
   
 - [x] 완료된 항목은 체크박스에 x 표시
 
-- 이미지 첨부시 : ![이미지 설명](경로) / 예시: ![poster](./image.png)
+- 과제 링크 첨부
+https://github.com/hongppa324/hhplus_ai/blob/main/week3/basic_DistilBERT.ipynb
