@@ -7,7 +7,8 @@ https://github.com/hongppa324/hhplus_ai/blob/main/week3/advanced_mnli.ipynb
 # 2) NER 과제 링크
 https://github.com/hongppa324/hhplus_ai/blob/main/week3/week3_ner_corrected.ipynb
 
-# 3) 기계 번역 과제 링크
+# 3) 기계 번역 과제 링크 (학습 도중 시간이 부족해서 완료하지 못 했습니다.)
+https://github.com/hongppa324/hhplus_ai/blob/main/week3/week3_translation_corrected.ipynb
 
 
 ## Q2) 모델은 어떻게 설계하셨나요? 설계한 모델의 입력과 출력 형태가 어떻게 되나요?
