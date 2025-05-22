@@ -1,0 +1,1322 @@
+[
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "테이큰커피",
+    "output": "카페"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "서초백화점약국",
+    "output": "의료"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "라이즈커피로스터즈",
+    "output": "카페"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "에이스손해보험 다이렉트",
+    "output": "보험"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "현대푸드(또봉이통닭&별난만두)",
+    "output": "음식"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "지금연구소 나우카페",
+    "output": "카페"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "BITE 2 HEAVEN(바이투헤븐)",
+    "output": "음식"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "빽다방 건대동문회관점",
+    "output": "카페"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "시옌",
+    "output": "음식"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "서울붕어베이커리",
+    "output": "음식"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "포크포크",
+    "output": "음식"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "우청옥",
+    "output": "음식"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "건대365약국",
+    "output": "의료"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "수리치킨",
+    "output": "음식"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "이케아코리아 유한회사",
+    "output": "쇼핑"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "백패커",
+    "output": "쇼핑"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "롯데슈퍼 서초국제전자센터점",
+    "output": "쇼핑"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "파덕 오리바베큐",
+    "output": "음식"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "부리또삐아",
+    "output": "음식"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "영커피 강남해커스점",
+    "output": "카페"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "페이플",
+    "output": "디지털"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "원족발 순대국",
+    "output": "음식"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "한설원",
+    "output": "음식"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "홍등",
+    "output": "음식"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "고흥순대국",
+    "output": "음식"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "(주)케이에프씨코리아 KFC강남역",
+    "output": "음식"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "(주)아트박스 건대스타시티점",
+    "output": "쇼핑"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "대보건설(주) 구리(일산방향)주",
+    "output": "기타"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "서일체육문화센터",
+    "output": "오락"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "제오헤어(신림점)",
+    "output": "기타"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "현이네 고기국수",
+    "output": "음식"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "다와 마트",
+    "output": "쇼핑"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "세븐스타 코인노래연습장",
+    "output": "오락"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "왓더버거 서초점",
+    "output": "음식"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "24시자양감자탕",
+    "output": "음식"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "홈플러스금천점",
+    "output": "쇼핑"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "(주)써브웨이 신림본점",
+    "output": "음식"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "주식회사 아성다이소",
+    "output": "쇼핑"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "노다메",
+    "output": "음식"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "서울옥",
+    "output": "음식"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "주식회사 함흥면옥",
+    "output": "음식"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "움버거앤윙스 어린이대공원역점",
+    "output": "음식"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "쇼군",
+    "output": "음식"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "엑스엑스커피메이커 건대점",
+    "output": "카페"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "세븐일레븐 M신대방역점",
+    "output": "쇼핑"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "메가엠지씨커피 신대방역점",
+    "output": "카페"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "주식회사 놀유니버스",
+    "output": "오락"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "지에스GS25 서초한신점",
+    "output": "쇼핑"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "주식회사 비케이알 버거킹신림역",
+    "output": "음식"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "( 주)버거요강남본점",
+    "output": "음식"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "이디야 신대방역점",
+    "output": "카페"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "주식회사 편한커피",
+    "output": "카페"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "구시아푸드마켓",
+    "output": "쇼핑"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "티머니 개인택시",
+    "output": "교통"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "맘스터치 대학동점",
+    "output": "음식"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "서울베스트의료의원",
+    "output": "의료"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "제니스약국",
+    "output": "의료"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "한송",
+    "output": "음식"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "린스시",
+    "output": "음식"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "주식회사 한빛",
+    "output": "기타"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "쿠팡이츠",
+    "output": "음식"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "(주)갈라인터내셔널",
+    "output": "기타"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "이마트24 센트럴키오스크점",
+    "output": "쇼핑"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "고벤트 주식회사",
+    "output": "기타"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "길동우동 건대점",
+    "output": "음식"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "나이스인프라 주식회사",
+    "output": "디지털"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "노브랜드버거 신림남부점",
+    "output": "음식"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "런드리킹7호점",
+    "output": "생활용품"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "우먼센스",
+    "output": "쇼핑"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "서초제일마디의원",
+    "output": "의료"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "청담",
+    "output": "음식"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "함포해장 서초점",
+    "output": "음식"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "주식회사 서울밥집",
+    "output": "음식"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "빈브라더스 합정점",
+    "output": "카페"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "농민순대",
+    "output": "음식"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "시카프관광개발주식회사함양(통",
+    "output": "기타"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "GS25 관악녹두점",
+    "output": "쇼핑"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "(주)팀플러스",
+    "output": "기타"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "채향",
+    "output": "음식"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "로또노래연습장",
+    "output": "오락"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "부탄츄",
+    "output": "음식"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "메저커피(mezer coffee)",
+    "output": "카페"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "오마카세 오사이초밥 강남",
+    "output": "음식"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "더이퀼리브리엄커피",
+    "output": "카페"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "메가엠지씨커피 건대스타점",
+    "output": "카페"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "사토이라멘",
+    "output": "음식"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "(주)이마트 구로점",
+    "output": "쇼핑"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "소문난 청년푸줏간",
+    "output": "음식"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "주식회사 신부원 궁",
+    "output": "음식"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "롯데시네마 신림 (온라인 티켓)",
+    "output": "오락"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "GS25신림수성점",
+    "output": "쇼핑"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "버거운녀석들",
+    "output": "음식"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "(주)어비즈",
+    "output": "기타"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "서울시설공단(인터넷정기권)",
+    "output": "공과금"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "OF",
+    "output": "기타"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "원조숯골냉면본점",
+    "output": "음식"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "돈천지",
+    "output": "음식"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "하오차이",
+    "output": "음식"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "사랑방",
+    "output": "음식"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "고향촌",
+    "output": "음식"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "팔팔 너구리 해장",
+    "output": "음식"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "커피빈코리아 테헤란로비젼타워",
+    "output": "카페"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "맛좋은순대국",
+    "output": "음식"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "말통커피 남부터미널점",
+    "output": "카페"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "유연카레 서초점",
+    "output": "음식"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "Amazon_AWS",
+    "output": "디지털"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "(주)공유어장",
+    "output": "기타"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "세븐스애비뉴 (7th Avenue)",
+    "output": "음식"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "주식회사 유피소프트",
+    "output": "디지털"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "아칸&플렉스 대전로드점",
+    "output": "오락"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "티맵모빌리티",
+    "output": "교통"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "지에스25(GS25) 서초모나코점",
+    "output": "쇼핑"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "(주)핌아시아",
+    "output": "기타"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "런드리킹셀프빨래방 신대방점",
+    "output": "생활용품"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "에이스아메리카화재해상보험",
+    "output": "보험"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "쿠팡(쿠페이)",
+    "output": "쇼핑"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "제주은희네해장국 예술의전당점",
+    "output": "음식"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "서울도시가스(주)",
+    "output": "공과금"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "크린토피아 관악신사점",
+    "output": "생활용품"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "매머드익스프레스 남부터미널점",
+    "output": "음식"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "AXA손해보험",
+    "output": "보험"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "호파스타생면파스타건대본점(HO",
+    "output": "음식"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "나카노라멘",
+    "output": "음식"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "주식회사 엠플레이그라운드 건대",
+    "output": "오락"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "천지인주유소",
+    "output": "교통"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "(주)코리아세븐 신림고시촌점",
+    "output": "쇼핑"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "봉산옥",
+    "output": "음식"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "카페동네 신림",
+    "output": "카페"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "전국고속버스운송사업조합",
+    "output": "교통"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "밥심이",
+    "output": "음식"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "(주)아트박스 신림포도몰점",
+    "output": "쇼핑"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "고품격 커피공장",
+    "output": "카페"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "나오리장작구이 서초점",
+    "output": "음식"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "라콜롬브코리아 주식회사",
+    "output": "카페"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "써브웨이 건대입구점",
+    "output": "음식"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "진로할인마트",
+    "output": "쇼핑"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "와이즐리",
+    "output": "생활용품"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "옴므",
+    "output": "쇼핑"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "카츠공방",
+    "output": "음식"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "영길리",
+    "output": "음식"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "Apple",
+    "output": "디지털"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "칼레오커피",
+    "output": "카페"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "진맥",
+    "output": "음식"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "서초칼국수 닭한마리",
+    "output": "음식"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "아라쭈꾸미 남부터미널점",
+    "output": "음식"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "심마니",
+    "output": "음식"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "LG U+통신요금 자동이체",
+    "output": "통신"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "김가네김밥 건대점",
+    "output": "음식"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "씨유 관악건영점",
+    "output": "생활용품"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "매머드커피익스프레스 건대스타",
+    "output": "카페"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "(주)카카오",
+    "output": "디지털"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "티머니 법인택시",
+    "output": "교통"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "컴포즈커피 테헤란아이파크점",
+    "output": "카페"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "심가네",
+    "output": "음식"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "한국도로교통공단 강남운전면허",
+    "output": "교통"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "에프이지",
+    "output": "기타"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "네이버페이",
+    "output": "디지털"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "더벤티 신림역점",
+    "output": "카페"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "세븐일레븐 대전가양행복점",
+    "output": "쇼핑"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "백암슈퍼",
+    "output": "쇼핑"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "씨유 신림동희점",
+    "output": "음식"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "관악구청",
+    "output": "기타"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "조이(JOY)",
+    "output": "오락"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "한국맥도날드(유)선릉점",
+    "output": "음식"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "삼대나주곰탕",
+    "output": "음식"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "사운즈커피 프리미어 강남",
+    "output": "카페"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "릴 버거",
+    "output": "음식"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "(주) 코리아세븐 신사시장점",
+    "output": "쇼핑"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "제주상회",
+    "output": "쇼핑"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "평안도식당 신림점",
+    "output": "음식"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "홈플러스",
+    "output": "쇼핑"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "이디야",
+    "output": "카페"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "여기어때",
+    "output": "오락"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "(주)이디야",
+    "output": "카페"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "고기반장",
+    "output": "음식"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "진흥마트",
+    "output": "쇼핑"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "동래정 선릉직영점",
+    "output": "음식"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "주식회사마스리얼티(고품격커피",
+    "output": "카페"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "적온",
+    "output": "음식"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "건국대학교",
+    "output": "기타"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "시골집",
+    "output": "음식"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "엄마손반찬",
+    "output": "음식"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "시안사진관 건대점",
+    "output": "기타"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "OPENAI *CHATGPT SUBSCR",
+    "output": "디지털"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "밀마을칼국수",
+    "output": "음식"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "초라멘",
+    "output": "음식"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "(주)유썸 퀴즈노스 서울대벤처타",
+    "output": "음식"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "곱창의전당 서초본점",
+    "output": "음식"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "카페타임",
+    "output": "카페"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "한국맥도날드(유) 서초GS DT점",
+    "output": "음식"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "CU 건대상허도서관점",
+    "output": "생활용품"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "우성식당",
+    "output": "음식"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "김치 도가",
+    "output": "음식"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "하루",
+    "output": "음식"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "쿠팡",
+    "output": "쇼핑"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "버거킹 건대입구역점",
+    "output": "음식"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "이디야 예술의전당점",
+    "output": "카페"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "써브웨이건대입구",
+    "output": "음식"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "투썸플레이스 신촌연세로점",
+    "output": "카페"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "(주)비바리퍼블리카",
+    "output": "디지털"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "럭키슈퍼",
+    "output": "쇼핑"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "커피브라더 건대점",
+    "output": "카페"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "신사동인동 교대점",
+    "output": "음식"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "(주)에프이지",
+    "output": "기타"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "씨제이올리브영(주) 신대방역점",
+    "output": "쇼핑"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "팀스파르타 주식회사",
+    "output": "디지털"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "멋진동전노래연습장",
+    "output": "오락"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "육전국밥 서울대입구역점",
+    "output": "음식"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "OPENAI",
+    "output": "디지털"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "허밍베어커피앤디저트",
+    "output": "카페"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "테이스테이 (Teistay)",
+    "output": "카페"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "순대실록남부터미널점",
+    "output": "음식"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "문경축산농협 약돌축산물센터",
+    "output": "음식"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "넷플릭스서비시스코리아 유한회",
+    "output": "디지털"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "씨알지(c.r.g)-신림점",
+    "output": "음식"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "공우이엔씨주식회사(슈퍼빌휘트",
+    "output": "기타"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "(주)두잇",
+    "output": "기타"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "서창산업(주) 구리휴게소",
+    "output": "음식"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "SR",
+    "output": "교통"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "오월당",
+    "output": "카페"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "주식회사 리베르 관악 1지점",
+    "output": "기타"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "싸다김밥(서초역점)",
+    "output": "음식"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "홍루몽",
+    "output": "음식"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "도시맥주 강남역점",
+    "output": "음식"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "멘쇼",
+    "output": "음식"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "감초식당",
+    "output": "음식"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "(주)코리아세븐 서초프라자점",
+    "output": "쇼핑"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "씨유(CU) 관악신사점",
+    "output": "쇼핑"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "송황 칼국수",
+    "output": "음식"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "비디버거 강남",
+    "output": "음식"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "명동칼국수",
+    "output": "음식"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "(주)이랜드월드패션 강남2",
+    "output": "쇼핑"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "(주)지오다노 강남",
+    "output": "쇼핑"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "네이버플러스 멤버십",
+    "output": "디지털"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "주식회사 에스씨케이컴퍼니",
+    "output": "기타"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "아우룸",
+    "output": "기타"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "관악구시설관리공단",
+    "output": "기타"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "문경축산농협 약돌한우프라자",
+    "output": "음식"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "GS25 와현해변점",
+    "output": "쇼핑"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "롯데시네마 신림 (티켓 외)",
+    "output": "오락"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "CU 서초한빛점",
+    "output": "쇼핑"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "긴자료코 서초점",
+    "output": "음식"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "GS25한화볼파크1루점",
+    "output": "쇼핑"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "(주)코리아세븐 서울대벤처타운",
+    "output": "쇼핑"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "핵밥 건대점",
+    "output": "음식"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "지세사랑약국",
+    "output": "의료"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "우아한형제들",
+    "output": "음식"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "게박사",
+    "output": "음식"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "빠사삭",
+    "output": "음식"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "씨유서초대로점",
+    "output": "쇼핑"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "한국맥도날드(유) 서울교대점",
+    "output": "음식"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "할리스커피 난곡사거리점",
+    "output": "카페"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "나오리주물럭 남부터미널점",
+    "output": "음식"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "남도식당",
+    "output": "음식"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "맘스터치 롯데건대스타시티점",
+    "output": "음식"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "호남집",
+    "output": "음식"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "파파도나스",
+    "output": "음식"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "탐앤탐스 광진화양점",
+    "output": "카페"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "계경순대국(신대방점)",
+    "output": "음식"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "(주)신세계프라퍼티 코엑스몰",
+    "output": "쇼핑"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "벨렘351 건대점",
+    "output": "음식"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "주식회사 씨더블유창원",
+    "output": "기타"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "정자네",
+    "output": "음식"
+  },
+  {
+    "instruction": "다음 가맹점의 업종을 분류하세요.",
+    "input": "포마토김밥",
+    "output": "음식"
+  }
+]
